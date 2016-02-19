@@ -1,2 +1,2 @@
-# CE
+# CE-Router
 IPv6
